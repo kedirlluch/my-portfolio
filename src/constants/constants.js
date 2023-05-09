@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    description: "MERN Memories is a web application that allows users to create and share memories with others. The name MERN comes from the technology stack used to build the app, which includes MongoDB, Express.js, React, and Node.js. With MERN Memories, users can create a profile, upload photos, and write descriptions of their favorite memories. They can also view and comment on memories shared by other users, creating a sense of community and connection. MERN Memories is a great way to document and preserve life's special moments, and to share them with friends and family across the globe.",
       image: '/images/1.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
     source: 'https://google.com',
@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'E-Commerce',
-    description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+    description:"My e-commerce website is a powerful online shopping platform that offers a personalized and user-friendly shopping experience. It includes features such as a search function, category filters, related products, and recommendations. The platform also provides a comprehensive order management system and a user-friendly administration panel for business owners.",
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
     source: 'https://google.com',
@@ -38,9 +38,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2015, text: ' won a gold medal in a national competition in Cuba and a bronze medal in an international correspondence computer science competition.', },
+  { year: 2016, text: ' won a gold medal in a national competition in Cuba and a bronze medal in an international correspondence computer science competition.', },
+  { year: 2017, text: 'Finalist in the Caribean Online Contest of the ACM-ICPC', },
+  { year: 2022, text: 'I worked as a financial advisor in Dubai at Pride Group.', },
+  
 ];
